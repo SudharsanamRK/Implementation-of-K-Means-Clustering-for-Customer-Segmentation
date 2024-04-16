@@ -86,7 +86,10 @@ plt.show()
 ```
 
 ## Output:
-## DataSet:
+## Data:
+![image](https://github.com/SudharsanamRK/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115523484/5fff27c8-b7b9-4476-9e67-c52236913d46)
+
+## Dataset:
 ![image](https://github.com/SudharsanamRK/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115523484/4c3ece4f-d137-4d0e-978b-7aae70bf3f98)
 
 ## Centroid Values:
